@@ -1,6 +1,6 @@
 {
   "name": "@th3rdwave/react-native-keyboard-aware-scroll-view",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "description": "A React Native ScrollView component that resizes when the keyboard appears.",
   "main": "index.js",
   "types": "index.d.ts",
